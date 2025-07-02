@@ -41,7 +41,7 @@ At PÆRBIT, we believe in:
 We love working with passionate designers, developers, and builders.  
 Want to collaborate on one of our projects?
 
-> 💌 Contact: [hello@paerbit.io](mailto:hello@paerbit.io) *(coming soon)*
+> 💌 Contact: [hello@paerbit.io](mailto:hello@paerbit.io) *(coming soon)* \
 > 🌐 Website: [www.paerbit.io](https://www.paerbit.io) *(coming soon)*
 
 ---
