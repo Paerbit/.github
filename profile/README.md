@@ -30,8 +30,9 @@ At PÆRBIT, we believe in:
 
 ## 🧪 Current Projects
 
-- `Pærbit` – a pocket-sized Linux laptop concept
-- `Pærkey` – a custom 40% keyboard with layered function logic
+- `Pærbit` – pocket-sized Linux laptop concept
+- `Pærkey` – custom 40% keyboard with layered function logic
+- `Pærsplit` – custom split keyboard
 - `PærOS` – lightweight OS for Pærbit
 
 ---
